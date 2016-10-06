@@ -19,7 +19,7 @@ To Run Tests:
 ./node_modules/.bin/mocha -u exports tests
 ```
 
-### Error Cods ###
+### Error Codes ###
 | Error Code | Error Message                   | Relevant Resources | Parameters          |
 | ---------- | ------------------------------- | ------------------ | :------------------ |
 | 1001       | Invalid resource name {0} given | All Resources      | `0 - Resource Name` |
